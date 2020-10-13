@@ -1,3 +1,4 @@
+Projeto desenvolvido para um teste, cujo objetivo é consumir a api do pockemon e exibir detalhes das cartas. 
 # Pokemon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
